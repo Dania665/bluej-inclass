@@ -45,7 +45,7 @@ public class RationalTest
     public void shouldHaveRationalConstructor()
     {
         Rational rational = new Rational(1,2);
-        assertEquals("1,2",1.5,rational.getValue());
+        assertEquals("1,2",0.5,rational.getValue());
     }
 
     @Test

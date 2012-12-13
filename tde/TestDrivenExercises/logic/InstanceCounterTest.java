@@ -14,12 +14,7 @@ import org.junit.Test;
  */
 public class InstanceCounterTest
 {
-    /**
-     * Default constructor for test class InstanceCounterTest
-     */
-    public InstanceCounterTest()
-    {
-    }
+    
 
 
     @Test
